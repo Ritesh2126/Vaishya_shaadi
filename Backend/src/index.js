@@ -36,4 +36,5 @@ app.use(cors({
 // Starting the server
 app.listen(3010,function(req,res){
     console.log("server is run ")
-})
+}
+)
