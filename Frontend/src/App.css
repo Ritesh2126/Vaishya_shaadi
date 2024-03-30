@@ -113,7 +113,7 @@ body {
 }
 .oneD {
   background-image: linear-gradient(rgba(0, 0, 0, 0.369), rgba(0, 0, 0, 0.5)),
-    url("image/oneBG.jpg");
+    url("http://91.108.111.3/image/oneBG.jpg");
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -421,7 +421,7 @@ body {
 
 .aboutus {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("image/aboutbg.jpg");
+    url("http://91.108.111.3/image/aboutbg.jpg");
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -533,7 +533,7 @@ body {
 }
 .maincontact {
   background-image: linear-gradient(rgba(0, 0, 0, 0.598), rgba(0, 0, 0, 0.512)),
-    url("image/contact1.jpg");
+    url("http://91.108.111.3/image/contact1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
