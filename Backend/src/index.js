@@ -34,7 +34,6 @@ app.use(cors({
   }));
 
 // Starting the server
-app.listen(3010,function(req,res){
-    console.log("server is run ")
-}
-)
+app.listen(3010, 91.108.111.3, function(req, res) {
+    console.log("Server is running on port 3010");
+});
